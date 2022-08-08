@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "__availability": "c",
+        "string": "c",
+        "istream": "cpp",
+        "iostream": "cpp"
+    }
+}
