@@ -10,7 +10,10 @@ void sss(int o){
         }
         sss(o+1);
     }
-    else return;
+    else{
+        printf("%d\n",sum);
+        return;
+    }
 }
 int main(void){
     scanf("%d",&x);
@@ -18,6 +21,5 @@ int main(void){
         scanf("%d",&a[i]);
     }
     sss(0);
-    printf("%d\n",sum);
     return 0;
 }

@@ -3,6 +3,8 @@
         "__availability": "c",
         "string": "c",
         "istream": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "inttypes.h": "c",
+        "limits.h": "c"
     }
 }
